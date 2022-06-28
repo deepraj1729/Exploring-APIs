@@ -1,0 +1,136 @@
+{
+      "status": "ok",
+      "totalResults": 14688,
+      "articles": [
+            {
+                  "source": {
+                        "id": "engadget",
+                        "name": "Engadget"
+                  },
+                  "author": "Kris Holt",
+                  "title": "New York passes a bill to limit bitcoin mining",
+                  "description": "New York lawmakers have passed a bill\r\n that would temporarily ban new bitcoin\r\n mining operations. Early on Friday, state senators voted 36-27 to pass the legislation. It's now bound for the desk of Governor Kathy Hochul, who will sign it into law or veto th\u2026",
+                  "url": "https://www.engadget.com/new-york-cryptocurrency-bill-bitcoin-mining-climate-change-161126292.html",
+                  "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/a8217250-bdfa-11eb-bfc4-2663225cea83",
+                  "publishedAt": "2022-06-03T16:11:26Z",
+                  "content": "New York lawmakers have passed a bill\r\n that would temporarily ban new bitcoin\r\n mining operations. Early on Friday, state senators voted 36-27 to pass the legislation. It's now bound for the desk of\u2026 [+2036 chars]"
+            },
+            {
+                  "source": {
+                        "id": null,
+                        "name": "Gizmodo.com"
+                  },
+                  "author": "Passant Rabie",
+                  "title": "Jay-Z and Jack Dorsey Launch Bitcoin Academy for New Generation of Crypto Bros",
+                  "description": "Rapper and entrepreneur Shawn Carter, better known as Jay-Z, is bringing Bitcoin to the place where he grew up. On Thursday, Jay-Z and former Twitter CEO Jack Dorsey announced the launch of Bitcoin Academy, which will offer free classes on cryptocurrency for \u2026",
+                  "url": "https://gizmodo.com/jay-z-jack-dorsey-bitcoin-academy-1849040407",
+                  "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/48fbb5e09973afbe730474c5cb0aadd4.jpg",
+                  "publishedAt": "2022-06-09T19:45:00Z",
+                  "content": "Rapper and entrepreneur Shawn Carter, better known as Jay-Z, is bringing Bitcoin to the place where he grew up. On Thursday, Jay-Z and former Twitter CEO Jack Dorsey announced the launch of Bitcoin A\u2026 [+2920 chars]"
+            },
+            {
+                  "source": {
+                        "id": null,
+                        "name": "Gizmodo.com"
+                  },
+                  "author": "Lucas Ropek",
+                  "title": "Bitcoin Wasn't as Decentralized or Anonymous as Crypto Bros Told You, Study Finds",
+                  "description": "A new study on bitcoin calls into question whether the digital currency is truly as decentralized and anonymous as its biggest devotees would have you believe. Read more...",
+                  "url": "https://gizmodo.com/bitcoin-cryptocurrency-centralized-not-anonymous-study-1849029656",
+                  "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d3390dc22b7788490c85b7ec69134874.jpg",
+                  "publishedAt": "2022-06-08T11:00:00Z",
+                  "content": "A new study on bitcoin calls into question whether the digital currency is truly as decentralized and anonymous as its biggest devotees would have you believe. \r\n Researchers from Baylor, Rice, and t\u2026 [+7343 chars]"
+            },
+            {
+                  "source": {
+                        "id": "bbc-news",
+                        "name": "BBC News"
+                  },
+                  "author": "https://www.facebook.com/bbcnews",
+                  "title": "Why the Central African Republic adopted Bitcoin",
+                  "description": "Some 90% of people in the Central African Republic lack access to the internet, needed to use Bitcoin.",
+                  "url": "https://www.bbc.co.uk/news/world-africa-61565485",
+                  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/394F/production/_125017641_gettyimages-1320532557.jpg",
+                  "publishedAt": "2022-06-05T23:03:49Z",
+                  "content": "Image caption, President Faustin-Archange Touad\u00e9ra wants to rethink his country's economic philosophy\r\nThe Central African Republic's decision to adopt Bitcoin as legal tender came as a surprise to m\u2026 [+8881 chars]"
+            },
+            {
+                  "source": {
+                        "id": "engadget",
+                        "name": "Engadget"
+                  },
+                  "author": "Mariella Moon",
+                  "title": "Chipotle now accepts cryptocurrency payments",
+                  "description": "You can now reportedly pay for your burritos and tacos with Bitcoin and other digital currencies, in case you don't mind spending your coins directly instead of going through exchanges first. Flexa has announced that the Mexican fast food chain can now accept\u2026",
+                  "url": "https://www.engadget.com/chipotle-accepts-cryptocurrency-payments-123013632.html",
+                  "urlToImage": "https://s.yimg.com/os/creatr-images/2019-11/62e01e20-0493-11ea-bffd-0d62f5b23b7c",
+                  "publishedAt": "2022-06-02T12:30:13Z",
+                  "content": "You can now reportedly pay for your burritos and tacos with Bitcoin and other digital currencies, in case you don't mind spending your coins directly instead of going through exchanges first. Flexa h\u2026 [+1428 chars]"
+            },
+            {
+                  "source": {
+                        "id": "bbc-news",
+                        "name": "BBC News"
+                  },
+                  "author": "https://www.facebook.com/bbcnews",
+                  "title": "El Salvador: The country where you can buy anything with Bitcoin",
+                  "description": "The cryptocurrency crash is hurting many investors, including one country that has bet big on Bitcoin.",
+                  "url": "https://www.bbc.co.uk/news/technology-61813845",
+                  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EB8F/production/_125430306_977646d4-a885-485f-b124-4aceaa1a4b98.jpg",
+                  "publishedAt": "2022-06-16T01:15:20Z",
+                  "content": "By Joe TidyCyber reporter \r\nCryptocurrencies have continued to tumble this week with billions wiped from the value of tokens like Bitcoin. The crash is affecting investors worldwide, including the go\u2026 [+6815 chars]"
+            },
+            {
+                  "source": {
+                        "id": "cnn",
+                        "name": "CNN"
+                  },
+                  "author": "Philip Wang and Tara Subramaniam, CNN",
+                  "title": "El Salvador's Bitcoin investment suffers amid crypto meltdown",
+                  "description": "El Salvador has embraced Bitcoin like no other country, with the government purchasing hundreds of coins last year as it announced that the cryptocurrency would become legal tender.",
+                  "url": "https://www.cnn.com/2022/06/14/americas/el-salvador-bitcoin-losses-intl-latam/index.html",
+                  "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220522194357-salvadorenos-bitcoin-confianza-devaluacion-merlin-delcid-mirador-mundial-cnn-pkg-00022610-super-tease.png",
+                  "publishedAt": "2022-06-15T00:38:11Z",
+                  "content": "(CNN)El Salvador has embraced Bitcoin like no other country, with the government purchasing hundreds of coins last year as it announced that the cryptocurrency would become legal tender. \r\nBut as the\u2026 [+842 chars]"
+            },
+            {
+                  "source": {
+                        "id": "engadget",
+                        "name": "Engadget"
+                  },
+                  "author": "Billy Steele",
+                  "title": "Recommended Reading: A blockchain primer",
+                  "description": "Does the crypto crash mean the blockchain Is over?Stephen J. Dubner, Freakonomics RadioIn this installment of Recommended Listening, Freakonomics Radio begins a three-part series on all things blockchain. The podcast will tackle everything from Bitcoin and cr\u2026",
+                  "url": "https://www.engadget.com/recommended-reading-a-blockchain-primer-140011351.html",
+                  "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-06/66b13e10-f3fd-11ec-b7ec-a5f156811c3b",
+                  "publishedAt": "2022-06-25T14:00:11Z",
+                  "content": "Stephen J. Dubner, Freakonomics Radio\r\nIn this installment of Recommended Listening, Freakonomics Radio begins a three-part series on all things blockchain. The podcast will tackle everything from Bi\u2026 [+734 chars]"
+            },
+            {
+                  "source": {
+                        "id": null,
+                        "name": "Gizmodo.com"
+                  },
+                  "author": "Matt Novak",
+                  "title": "Chipotle Lovers Can Now Buy Burritos With Bitcoin, Ether, and More: Report",
+                  "description": "Customers at Chipotle will now be able to pay for their burritos with cryptocurrencies, including bitcoin, ether, and dogecoin, in a move that could help crypto become more mainstream, according to trade publication Restaurant Business. But there\u2019s just one i\u2026",
+                  "url": "https://gizmodo.com/chipotle-bitcoin-ethereum-dogecoin-crypto-burritos-paym-1849006239",
+                  "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a06df2b7927727af38b388d72e721dce.jpg",
+                  "publishedAt": "2022-06-02T10:00:00Z",
+                  "content": "Customers at Chipotle will now be able to pay for their burritos with cryptocurrencies, including bitcoin, ether, and dogecoin, in a move that could help crypto become more mainstream, according to t\u2026 [+3130 chars]"
+            },
+            {
+                  "source": {
+                        "id": "the-verge",
+                        "name": "The Verge"
+                  },
+                  "author": "Richard Lawler",
+                  "title": "DeFi lending giant Celsius halts withdrawals",
+                  "description": "Celsius is a decentralized finance platform that\u2019s one of the largest crypto lenders. It announced a \u201cpause\u201d on withdrawals as markets opened in Asia, leaving investors in the dark about what will happen next.",
+                  "url": "https://www.theverge.com/2022/6/13/23165401/defi-cryptocurrency-celsius-network-pause-withdrawals",
+                  "urlToImage": "https://cdn.vox-cdn.com/thumbor/rtDU7dALLjxGLs-7_Xbon075OgY=/0x358:5000x2976/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23623361/1239951757.jpg",
+                  "publishedAt": "2022-06-13T05:09:57Z",
+                  "content": "Celsius has not said what it plans to do next\r\nExhibition And Experience Zones at The Paris NFT Day Conference\r\nThe Celsius Network, a decentralized finance (DeFi) platform and one of the largest cry\u2026 [+3737 chars]"
+            }
+      ]
+}
