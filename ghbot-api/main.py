@@ -1,5 +1,5 @@
 from github.bot import GhBot
-from fastapi import FastAPI,Request
+from fastapi import FastAPI
 from pydantic import BaseModel
 
 app = FastAPI()
@@ -11,33 +11,31 @@ class ContentBody(BaseModel):
 class ResponseBody(BaseModel):
     status: str
     message: str
-    info: dict
+    data: dict
 
 
-@app.post("/ghbot")
-def ghBot(content:ContentBody, request:Request,response_model=ResponseBody):
+@app.get("/api/v1/info")
+def ghBot(username:str):
     try:
-        bot = GhBot()
-        content = content.text
-        data_dict,status,msg = bot.serve(content=content)
+        bot = GhBot(username=username)
+        data,status,msg = bot.getUserInfo()
 
         if status == "success":
             return ResponseBody(
                 status = status,
                 message = msg,
-                info = data_dict
+                data = data
             )
         else:
             return ResponseBody(
                 status = "error",
                 message = msg,
-                info = data_dict
+                data = data
             )
 
     except Exception as e:
-        print(e)
         return ResponseBody(
             status = "failure",
             message = "error",
-            info = {}
+            data = {}
         )

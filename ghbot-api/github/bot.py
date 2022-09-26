@@ -1,4 +1,3 @@
-from pydantic import ConfigError
 from github.loggers import Logger
 from github.config import GhConfig
 import requests as req
@@ -7,7 +6,8 @@ import json
 import os
 
 class GhBot:
-    def __init__(self):
+    def __init__(self,username):
+        self.username = username
         self.page_exists = None
         self.data_dict = {}
         self.soup = None
@@ -22,21 +22,6 @@ class GhBot:
         self.recentlyUnfollowedByUser = []
     
 
-    def getUserInput(self):
-        Logger.info("1. Run for default username ({})".format(GhConfig.DefaultProfile.USERNAME))
-        Logger.info("2. Run for another username")
-        menu = input("Your Choice: ")
-
-        if menu == "1":
-            self.username = GhConfig.DefaultProfile.USERNAME
-
-        elif menu == "2":
-            self.username = input("Enter username: ")
-
-        else:
-            Logger.error("Oops, wrong input. Exiting program")
-    
-
     def createSoupURL(self,tab_name,currPg):
         return f"https://github.com/{self.username}?tab={tab_name}&page={currPg}"
     
@@ -44,8 +29,10 @@ class GhBot:
         url=f"https://github.com/{self.username}"
         status = self.getSoup(url)
         if status is not None:
+            print("User found")
             return True
         else:
+            print("User Not found")
             return False
 
     def getSoup(self,url):
@@ -158,14 +145,12 @@ class GhBot:
 
 
 
-    def serve(self,content:str):
+    def getUserInfo(self):
         try:
-            if len(content)==0:
+            if len(self.username)==0:
                 status="error"
                 msg="username null exception"
                 return self.data_dict,status,msg
-
-            self.username = content
 
             if not self.checkUserExists():
                 status="error"
