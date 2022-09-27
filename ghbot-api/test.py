@@ -71,7 +71,7 @@ def getFollowingInfo(following_list):
 def printUsers(data:list):
     print("\n\n\n")
     for idx,user in enumerate(data):
-        print("[{}] user: {} followers: {} following: {}".format(idx+1,user["username"],user["followers"],user["following"]))
+        print("[{}] user: https://github.com/{} followers: {} following: {}".format(idx+1,user["username"],user["followers"],user["following"]))
 
 
 if __name__ == "__main__":
