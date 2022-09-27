@@ -64,9 +64,6 @@ def getFollowingInfo(following_list):
         following_data["info"].append(modified_data)
         print("[{}] user: {} followers: {} following: {}".format(idx+1,modified_data["username"],modified_data["followers"],modified_data["following"]))
 
-        if idx == 5:
-            break
-
     saveFile(following_data)
     return sortByFollowing(following_data["info"])
 
